@@ -1,4 +1,4 @@
-# Barber Shop Management App - Counter
+# Counter - Barber Shop Management App
 
 This application is designed to streamline the operations of a barber shop by enabling them to manage their professionals, customers, sales, and finances efficiently. It was commissioned for a local barber shop where I live.
 
