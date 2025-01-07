@@ -71,7 +71,7 @@ To set up the App on your system:
 
 1. Launch the app.
 2. Navigate through the intuitive UI to:
-   - Register professionals and customers.
+   - Register professionals.
    - Add product sales and debts.
    - View sales reports and calculate wages.
 3. Use the generated tables and reports to monitor the shop’s performance and professional payouts.
