@@ -1,0 +1,85 @@
+.professional {
+    position: relative;
+    width: 200px;
+    height: 100%;
+    background-color: rgb(80, 80, 80);
+    border: 1px solid rgb(175, 175, 175);
+    border-radius: 5px;
+    float: left;
+    margin-right: 10px !important;
+}
+
+.p-img {
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+    border-radius: 5px;
+    height: 40px;
+}
+
+.p-name {
+    color: white;
+    font-family:system-ui,'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-top: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.payments {
+    color: rgb(255, 255, 255);
+    list-style: none;
+    font-size: .7rem;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.payment {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: underline;
+}
+
+.payments-total {
+    margin-right: 25px;
+}
+
+.payments-name {
+    margin-left: 25px;
+}
+
+.payment-select {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 10px;
+    font-size: .7rem;
+    font-weight: 700;
+    font-family:system-ui,'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.payment-input {
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 5px;
+    font-size: .7rem;
+    font-weight: 700;
+    font-family:system-ui,'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.payment-button {
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 5px;
+    padding: 2px;
+    font-size: .7rem;
+    font-weight: 700;
+    font-family:system-ui,'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.fieldChoices {
+    display: flex;
+    flex-direction: row;
+}

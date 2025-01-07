@@ -1,0 +1,46 @@
+.users {
+    display: flex;
+    margin: 0 auto;
+    gap: 10px;
+    margin-bottom: 50px;
+    max-width: 60%;
+}
+
+.user-container {
+    background-color: rgb(80, 80, 80);
+    color: white;
+    text-transform: capitalize;
+    border: 1px solid rgb(175, 175, 175) !important;
+    border-radius: 5px;
+}
+
+.title {
+    color: white;
+    font-size: 2rem;
+    font-weight: 300;
+    font-family:system-ui,'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-transform: uppercase;
+}
+
+.emptylist {
+    color: white;
+}
+
+.form {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.form-row {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.text-success {
+    color: rgb(181, 233, 103) !important;
+}
+
+.modal-style {
+    background-color: rgb(75, 75, 75);
+    color: white;
+}

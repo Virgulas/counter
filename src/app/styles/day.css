@@ -1,0 +1,122 @@
+.container-pday {
+    height: 266px;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+/* Target the entire scrollbar */
+::-webkit-scrollbar {
+   width: 12px !important; /* width for vertical scrollbars */
+   height: 6px !important; /* height for horizontal scrollbars */
+ }
+ 
+ /* Background of the scrollbar */
+ ::-webkit-scrollbar-track {
+   background: #f0f0f0;
+   border-radius: 6px;
+ }
+ 
+ /* Thumb (scroll handle) */
+ ::-webkit-scrollbar-thumb {
+   background: #888;
+   border-radius: 6px;
+ }
+ 
+ /* Thumb hover */
+ ::-webkit-scrollbar-thumb:hover {
+   background: #555;
+ }
+
+.list-gp {
+    font-size: small;
+    gap: 5px;
+    height: auto;
+    overflow: auto;
+   
+}
+::-webkit-scrollbar {
+  width: 12px; /* width for vertical scrollbars */
+  height: 12px; /* height for horizontal scrollbars */
+}
+
+.list-gp-item {
+   padding: 5px 19px 0 19px !important;
+   color: white;
+   height: 80px;
+   margin-top: 5px;
+   margin-bottom: 2px;
+   min-width: 96px !important;
+   background-color: rgb(80, 80, 80);
+   border: 1px solid rgb(175, 175, 175) !important;
+}
+
+.list-gp-item--pix {
+    padding: 0 !important;
+    color: white;
+    height: 80px;
+    min-width: 96px !important;
+    margin-bottom: 2px;
+    background-color: rgb(80, 80, 80);
+    border: 1px solid rgb(175, 175, 175) !important;
+ }
+
+ .time-pix {
+    position: absolute;
+    top: 62%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+
+ .time {
+    position: absolute;
+    top: 82%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+
+ .badge-pix {
+    position: absolute;
+    top: 15%;
+    left: 46%;
+    transform: translate(-50%, -50%);
+ }
+
+ .badge {
+    position: absolute;
+    top: 15%;
+    left: 46%;
+    transform: translate(-50%, -50%);
+ }
+
+ .value-pix {
+    position: absolute;
+    top: 41%;
+    left: 47%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+ }
+
+ .value {
+    position: absolute;
+    top: 50%;
+    left: 47%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+ }
+
+.btn-pix {
+    font-size: .7rem;
+    padding: 0px 5px 0px 5px;
+    position: absolute;
+    bottom: 4%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.payment-delete-btn {
+    position: absolute;
+    top: 0%;
+    right: -10%;
+    transform: translateX(-50%);
+}

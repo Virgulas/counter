@@ -1,0 +1,33 @@
+.nav-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.nav-b {
+    border-radius: 15px;
+    min-width: 60%;
+    background-color: black !important;
+}
+
+
+.nav-items {
+    display: flex;
+    gap: 45px;
+}
+
+.nav-link {
+    color: rgb(226, 226, 226) !important;
+}
+
+.nav-link.active {
+    background-color: rgb(31, 31, 31) !important;
+    color: rgb(255, 255, 255) !important;
+    font-weight: bold;
+}
+
+.nav-item.active {
+    color: rgb(255, 255, 255)!important;
+    background-color: black !important;
+    font-weight: bold;
+}
