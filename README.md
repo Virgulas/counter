@@ -7,32 +7,29 @@ This application is designed to streamline the operations of a barber shop by en
 ## Features
 
 ### 1. **Professional Management**
+
 - Register and manage barber shop professionals.
 - Track debts owed by each professional to the shop.
 
 ### 2. **Customer Management**
+
 - Add and manage customer entries for each professional.
 - Keep detailed records of sales and services provided.
 
 ### 3. **Product Sales Management**
+
 - Register product sales from the shop.
 - Maintain an organized record of all transactions.
 
 ### 4. **Debt Tracking**
+
 - Register debts incurred by professionals.
 - Keep track of outstanding balances and payment history.
 
 ### 5. **Sales Reporting and Wage Calculation**
+
 - Generate a comprehensive table of all sales.
 - Calculate and display the percentage of sales each professional will receive as wages.
-
----
-
-## Demo
-
-<video src="./demo.mp4" controls width="600">
-  Your browser does not support the video tag.
-</video>
 
 ---
 
@@ -54,16 +51,19 @@ Here is an overview of the project's folder structure:
 To set up the App on your system:
 
 1. Clone the repository:
+
    ```bash
    git clone <repository-url>
    ```
 
 2. Navigate to the project directory:
+
    ```bash
    cd counter
    ```
 
 3. Install dependencies:
+
    ```bash
    npm install
    ```
@@ -113,4 +113,3 @@ For inquiries or support, please contact:
 
 - Developer: [Bruno Cardoso]
 - Email: [bruno.a.wep@gmail.com]
-
