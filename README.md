@@ -31,6 +31,8 @@ This application is designed to streamline the operations of a barber shop by en
 - Generate a comprehensive table of all sales.
 - Calculate and display the percentage of sales each professional will receive as wages.
 
+[![Watch the video](https://img.youtube.com/vi/Vk10AbA6b80/0.jpg)](https://www.youtube.com/watch?v=Vk10AbA6b80)
+
 ---
 
 ## Folder Structure
