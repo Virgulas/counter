@@ -28,6 +28,14 @@ This application is designed to streamline the operations of a barber shop by en
 
 ---
 
+## Demo
+
+<video src="./demo.mp4" controls width="600">
+  Your browser does not support the video tag.
+</video>
+
+---
+
 ## Folder Structure
 
 Here is an overview of the project's folder structure:
